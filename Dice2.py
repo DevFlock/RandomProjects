@@ -50,6 +50,8 @@ def DiceRoll():
 
 
     print ("Your number is:", randomnumber)
+    
+Diceroll()
 
 yesorno = str(input("Would you like to roll? (Enter,y/n)"))
 
